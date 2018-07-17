@@ -1,0 +1,4 @@
+click
+ipython
+rasa-core
+rasa-nlu["spacy"]
